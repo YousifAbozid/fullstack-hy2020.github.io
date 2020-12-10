@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[26],{jFuX:function(e,n,t){"use strict";t.r(n);var a=t("q1tI"),o=t.n(a),c=t("xEVu");n.default=function(){return o.a.createElement(c.a,{lang:"en",title:"Partner companies | Full stack open 2020",seoDescription:"Full stack development in partner companies"})}}}]);
+//# sourceMappingURL=component---src-pages-companies-en-js-20d0daf141e82cd063a8.js.map

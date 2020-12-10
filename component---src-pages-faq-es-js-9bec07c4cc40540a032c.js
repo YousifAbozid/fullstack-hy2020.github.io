@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[31],{"3cs0":function(e,n,t){"use strict";t.r(n);var s=t("q1tI"),a=t.n(s),o=t("S6uJ");n.default=function(){return a.a.createElement(o.a,{lang:"es",title:"FAQ | Full stack open 2020",seoDescription:"Frequently asked questions"})}}}]);
+//# sourceMappingURL=component---src-pages-faq-es-js-9bec07c4cc40540a032c.js.map
